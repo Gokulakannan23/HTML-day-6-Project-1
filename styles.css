@@ -1,0 +1,44 @@
+body {
+    font-family: cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 550px;
+    margin: 0;
+    background-image: url(https://media.istockphoto.com/id/913183102/vector/hand-drawn-cartoon-doodle-numbers-seamless-pattern-mathematical-background-for-kids-back-to.jpg?s=1024x1024&w=is&k=20&c=MMbsoFNSWjTod85WnvLL-fymUeBS456kjfaPPSvItSw=);
+
+}
+
+.container {
+    text-align: center;
+    background:#b6c7b9;
+    padding: 20px;
+    border-radius: 30px;
+    box-shadow: black;
+    
+}
+
+input {
+    padding: 10px;
+    font-size: 16px;
+    margin: 10px 0;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 18px;
+}
